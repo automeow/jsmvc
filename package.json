@@ -1,0 +1,11 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/mvc.js",
+  "author": "Sam Boylett",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5"
+  }
+}
